@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">aHelloListView</string>
+
+    <string name="title">04_mb_account_summary</string>
+    <string name="strCity">Sydney</string>
+    <string name="strWeather">Sunny</string>
+    <string name="strTemp">32°C</string>
+    <string name="txtTemp">Temp</string>
+    <string name="strWindSpeed">5kmph</string>
+    <string name="txtWindSpeed">WindSpeed</string>
+    <string name="Separator">---</string>
+</resources>

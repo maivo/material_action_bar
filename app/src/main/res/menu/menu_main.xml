@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      >
+      <item
+          android:id="@+id/action_go"
+          android:orderInCategory="100"
+          android:showAsAction="ifRoom"
+          android:title="Go 2nd"/>
+    <item android:id="@+id/action_settings"
+          android:title="Setting"
+          android:orderInCategory="100"
+          android:showAsAction="never"/>
+</menu>
